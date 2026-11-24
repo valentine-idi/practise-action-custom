@@ -1,5 +1,5 @@
 name: Deploy to s3
-description: Deploys files to an S3 bucket using the AWS CLI.
+description: Deploy files to an S3 bucket using the AWS CLI.
 
 runs:
   using: "node24"
